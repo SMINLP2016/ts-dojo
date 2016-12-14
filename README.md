@@ -7,7 +7,7 @@
 ## Définir une fonction prenant en paramètre , un prenom, un nom et un age (entier) et qui retourne : "Bonjour PRENOM NOM tu as X ans et tu es MAJEUR/MINEUR" (en fonction de l'age) 
 
 * utiliser cette fonction avec : prenom = 'John' . Nom = 'Doe' . age = 14
-* utiliser cette fonction avec : prenom = 'Paul' . Nom = 'Bismuth' . age = 18
+* utiliser cette fonction avec : prenom = 'Paul' . Nom = 'Bismuth' . age = 56
 * utiliser cette fonction avec : prenom = 'justin' . Nom = 'bieber' . age = 18
 
 ## Définir une fonction qui retourne "true" si le nombre est sup. à 10 sinon "false"
